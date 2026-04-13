@@ -8,7 +8,7 @@ I build intelligent systems by bridging the gap between large language models an
 Obsessed with agentic workflows, RAG architectures, and making AI actually useful.
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=drbinna&style=for-the-badge&color=FFFFFF)](https://github.com/drbinna)
+[![Profile Views](https://komarev.com/ghpvc/?username=drbinna&style=for-the-badge&color=white)](https://github.com/drbinna)
 
 </div>
 
@@ -62,36 +62,36 @@ Obsessed with agentic workflows, RAG architectures, and making AI actually usefu
 <tr>
 <td width="50%">
 
-### 🔍 [DeepGit Lite](https://github.com/drbinna)
-Smart GitHub search engine that spins up conversational agents for grounded repo exploration — runs on CPU-only devices
+### 🏀 [OKC Thunder Fan Assist](https://nba-stats-rag-pipeline-zeab.vercel.app/)
+RAG-powered chatbot for Oklahoma City Thunder stats — ask natural language questions and get grounded answers from real game data
 <br/>
-`Python · LLM Agents · GitHub API`
+`RAG · Next.js · Embeddings`
 
 </td>
 <td width="50%">
 
-### 🏛 [ORU IT RAG Assistant](https://huggingface.co/spaces/drbinna/oru-it-RAG-assistant)
-AI-powered IT helpdesk for Oral Roberts University built on a full RAG pipeline with real similarity search
+### 🎓 [ORU Transcript Formatter](https://oru-transcript-formatter-cvu0.vercel.app/)
+Professional transcript formatting tool for Oral Roberts University — converts raw transcripts into polished Word documents
 <br/>
-`RAG · Embeddings · Gradio`
+`Python · Document Processing · Vercel`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📚 [RAG Knowledge Assistant](https://huggingface.co/spaces/drbinna/rag-knowledge-assistant)
-Production-ready retrieval-augmented generation system with real similarity search and document grounding
+### 🧠 [E5 NBA Fine-tuned Model](https://huggingface.co/drbinna/e5-nba-finetuned)
+Fine-tuned E5-base-v2 sentence transformer (0.1B params) for NBA-domain semantic search — maps queries to box scores and game data
 <br/>
-`LangChain · Vector DB · Python`
+`Sentence Transformers · BERT · Fine-tuning`
 
 </td>
 <td width="50%">
 
-### 🏀 [E5 NBA Fine-tuned](https://huggingface.co/drbinna/e5-nba-finetuned)
-Fine-tuned E5 embedding model (0.1B params) for NBA-domain sentence similarity and semantic search
+### 🐱 [Professor J's Compliment Generator](https://professor-j-compliment-generator.vercel.app/)
+Fun AI-powered compliment generator with multiple styles (Funny, Sweet, Hype) and text-to-speech output
 <br/>
-`Hugging Face · Transformers · Fine-tuning`
+`AI · TTS · Vercel`
 
 </td>
 </tr>

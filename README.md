@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Dynamic typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+there%2C+I'm+Obi+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Integrator+%7C+Builder)](https://github.com/drbinna)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there%2C+I+am+Obi;Avid+LLM+integrator+and+Python+Developer)](https://github.com/drbinna)
 
 <p>
 I build intelligent systems by bridging the gap between large language models and real-world applications.<br/>
 Obsessed with agentic workflows, RAG architectures, and making AI actually useful.
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=drbinna&style=for-the-badge&color=6C63FF)](https://github.com/drbinna)
+[![Profile Views](https://komarev.com/ghpvc/?username=drbinna&style=for-the-badge&color=FFFFFF)](https://github.com/drbinna)
 
 </div>
 
@@ -41,7 +41,7 @@ Obsessed with agentic workflows, RAG architectures, and making AI actually usefu
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Vector DBs & Infra**
@@ -62,36 +62,36 @@ Obsessed with agentic workflows, RAG architectures, and making AI actually usefu
 <tr>
 <td width="50%">
 
-### 🔗 [Project Name](https://github.com/drbinna/repo-name)
-RAG pipeline with hybrid search over enterprise docs
+### 🔍 [DeepGit Lite](https://github.com/drbinna)
+Smart GitHub search engine that spins up conversational agents for grounded repo exploration — runs on CPU-only devices
 <br/>
-`LangChain · Pinecone · FastAPI`
+`Python · LLM Agents · GitHub API`
 
 </td>
 <td width="50%">
 
-### 🤖 [Project Name](https://github.com/drbinna/repo-name)
-Agentic workflow framework for multi-step task automation
+### 🏛 [ORU IT RAG Assistant](https://huggingface.co/spaces/drbinna/oru-it-RAG-assistant)
+AI-powered IT helpdesk for Oral Roberts University built on a full RAG pipeline with real similarity search
 <br/>
-`Python · OpenAI · MCP`
+`RAG · Embeddings · Gradio`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧩 [Project Name](https://github.com/drbinna/repo-name)
-MCP server for integrating LLMs with external APIs
+### 📚 [RAG Knowledge Assistant](https://huggingface.co/spaces/drbinna/rag-knowledge-assistant)
+Production-ready retrieval-augmented generation system with real similarity search and document grounding
 <br/>
-`TypeScript · MCP SDK · Claude`
+`LangChain · Vector DB · Python`
 
 </td>
 <td width="50%">
 
-### 📊 [Project Name](https://github.com/drbinna/repo-name)
-Fine-tuning pipeline with eval benchmarks
+### 🏀 [E5 NBA Fine-tuned](https://huggingface.co/drbinna/e5-nba-finetuned)
+Fine-tuned E5 embedding model (0.1B params) for NBA-domain sentence similarity and semantic search
 <br/>
-`Hugging Face · PyTorch · W&B`
+`Hugging Face · Transformers · Fine-tuning`
 
 </td>
 </tr>
@@ -104,21 +104,16 @@ Fine-tuning pipeline with eval benchmarks
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drbinna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=drbinna&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drbinna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=drbinna&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drbinna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drbinna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-## 📝 Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog RSS feed via a GitHub Action to auto-populate this -->
-- 🔥 *Coming soon — writing about LLM integration patterns*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -126,18 +121,12 @@ Fine-tuning pipeline with eval benchmarks
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obinna-amadi1/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/drbinna1)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Built with AI](https://img.shields.io/badge/Built%20with-AI%20in%20the%20loop-6C63FF?style=flat-square&logo=anthropic&logoColor=white)
-
-*I don't just integrate LLMs — I build with them daily.*
-
 </div>

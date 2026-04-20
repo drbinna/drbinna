@@ -100,14 +100,6 @@ Fun AI-powered compliment generator with multiple styles (Funny, Sweet, Hype) an
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drbinna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=drbinna&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drbinna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
 
 </div>
 

@@ -55,14 +55,14 @@ Obsessed with agentic workflows, RAG architectures, and making AI actually usefu
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🏀 [OKC Thunder Fan Assist](https://nba-stats-rag-pipeline-zeab.vercel.app/)
+###  [OKC Thunder Fan Assist](https://nba-stats-rag-pipeline-zeab.vercel.app/)
 RAG-powered chatbot for Oklahoma City Thunder stats — ask natural language questions and get grounded answers from real game data
 <br/>
 `RAG · Next.js · Embeddings`
@@ -70,7 +70,7 @@ RAG-powered chatbot for Oklahoma City Thunder stats — ask natural language que
 </td>
 <td width="50%">
 
-### 🎓 [ORU Transcript Formatter](https://oru-transcript-formatter-cvu0.vercel.app/)
+###  [ORU Transcript Formatter](https://oru-transcript-formatter-cvu0.vercel.app/)
 Professional transcript formatting tool for Oral Roberts University — converts raw transcripts into polished Word documents
 <br/>
 `Python · Document Processing · Vercel`
@@ -80,7 +80,7 @@ Professional transcript formatting tool for Oral Roberts University — converts
 <tr>
 <td width="50%">
 
-### 🧠 [E5 NBA Fine-tuned Model](https://huggingface.co/drbinna/e5-nba-finetuned)
+### [E5 NBA Fine-tuned Model](https://huggingface.co/drbinna/e5-nba-finetuned)
 Fine-tuned E5-base-v2 sentence transformer (0.1B params) for NBA-domain semantic search — maps queries to box scores and game data
 <br/>
 `Sentence Transformers · BERT · Fine-tuning`
